@@ -13,6 +13,7 @@
 
 - 📄 Know about my experiences [https://pcresume.netlify.app/](https://pcresume.netlify.app/)
 
+- My Research Paper Link: https://doi.org/10.3390/rs12203420
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
