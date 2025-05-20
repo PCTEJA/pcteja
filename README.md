@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm TEJA</h1>
-<h3 align="center">Software Engineer|Researcher|ML & GenAI|3* Codechef</h3>
+<h3 align="center">Software Engineer | Researcher | ML & GenAI | 3* Codechef | Top 10% in Leetcode</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
 - 🔭 I am currently working at **TCS**
 
-- 🌱 I’m currently learning **ReactJS & FireBase**
+- 🌱 I’m currently learning **Generative AI | LLMs | MCP**
 
 - 👨‍💻 All of my projects are available at [https://tejacv.netlify.app/](https://tejacv.netlify.app/)
 
