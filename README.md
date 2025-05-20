@@ -3,7 +3,7 @@
 
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
-- 🔭 I Currently Have offer From **BRILLIO**
+- 🔭 I am currently working at **TCS**
 
 - 🌱 I’m currently learning **ReactJS & FireBase**
 
@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **pcteja2000@gmail.com**
 
-- 📄 Know about my experiences [https://pcresume.netlify.app/](https://pcresume.netlify.app/)
+- 📄 Know about my experiences [https://tejacv.netlify.app/](https://tejacv.netlify.app/)
+
+- 📄 Google Scholar Link: https://scholar.google.com/citations?user=mZGqviAAAAAJ&hl=en
 
 - My Research Paper Link: https://doi.org/10.3390/rs12203420
 
@@ -19,6 +21,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/teja-p-c-589546173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/teja-p-c-589546173/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/pcteja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pcteja" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=mZGqviAAAAAJ&hl=en" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Google Scholar Profile" height="30" width="40" />
+</a>
 <a href="https://www.leetcode.com/https://leetcode.com/pc2827/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pc2827/" height="30" width="40" /></a>
 </p>
 
