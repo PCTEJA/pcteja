@@ -19,12 +19,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/teja-p-c-589546173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/teja-p-c-589546173/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/pcteja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pcteja" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=mZGqviAAAAAJ&hl=en" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Google Scholar Profile" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/https://leetcode.com/pc2827/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pc2827/" height="30" width="40" /></a>
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=mZGqviAAAAAJ&hl=en" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Google Scholar Profile" height="30" width="40" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/teja-p-c-589546173/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/pcteja" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef Profile" height="30" width="40" />
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/pc2827/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
