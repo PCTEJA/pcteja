@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS & FireBase**
 
-- 👨‍💻 All of my projects are available at [https://pcresume.netlify.app/](https://pcresume.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tejacv.netlify.app/](https://tejacv.netlify.app/)
 
 - 📫 How to reach me **pcteja2000@gmail.com**
 
