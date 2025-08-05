@@ -3,7 +3,9 @@
 
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
-- 🔭 I am currently working at **TCS**
+- 🎓 I’m currently pursuing **MS in Computer Science** at **University of North Texas (UNT)**
+
+- 💼 Previously worked as a **Software Engineer** at **Tata Consultancy Services (TCS)** for 3 years
 
 - 🌱 I’m currently learning **Generative AI | LLMs | MCP**
 
