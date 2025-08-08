@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Generative AI | LLMs | MCP**
 
-- 👨‍💻 All of my projects are available at [https://tejacv.netlify.app/](https://tejacv.netlify.app/)
-
 - 🌐 Check out my 3D portfolio: [https://teja3d.netlify.app/](https://teja3d.netlify.app/)
+
+- 👨‍💻 All of my projects are available at [https://tejacv.netlify.app/](https://tejacv.netlify.app/)
   
 - 📫 How to reach me **pcteja2000@gmail.com**
 
