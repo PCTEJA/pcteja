@@ -1,0 +1,253 @@
+
+      <svg
+        width="350"
+        height="247"
+        viewBox="0 0 350 247"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId"></title>
+        <desc id="descId"></desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #67e8f9;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    @keyframes slideInAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: calc(100%-100px);
+      }
+    }
+    @keyframes growWidthAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #cbd5e1;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .bold { font-weight: 700 }
+    .lang-name {
+      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      fill: #cbd5e1;
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    #rect-mask rect{
+      animation: slideInAnimation 1s ease-in-out forwards;
+    }
+    .lang-progress{
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+    }
+    .progress-background { fill: #ddd; }
+    
+          
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
+
+        
+        <defs>
+          
+          
+        </defs>
+        
+
+        <rect
+          data-testid="card-bg"
+          class="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="18"
+          height="99%"
+          stroke="#e4e2e2"
+          width="349"
+          fill="#0b1020"
+          stroke-opacity="0"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >The Language Mix</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <svg data-testid="lang-items" x="25">
+      
+    <g transform="translate(0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Jupyter Notebook 37.84%
+      </text>
+    </g>
+  </g><g transform="translate(0, 32)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TypeScript 26.83%
+      </text>
+    </g>
+  </g><g transform="translate(0, 64)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        HTML 10.98%
+      </text>
+    </g>
+  </g><g transform="translate(0, 96)">
+    <g class="stagger" style="animation-delay: 900ms">
+      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        CSS 8.62%
+      </text>
+    </g>
+  </g><g transform="translate(0, 128)">
+    <g class="stagger" style="animation-delay: 1050ms">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Python 8.61%
+      </text>
+    </g>
+  </g><g transform="translate(0, 160)">
+    <g class="stagger" style="animation-delay: 1200ms">
+      <circle cx="5" cy="6" r="5" fill="#336790" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        PLpgSQL 7.11%
+      </text>
+    </g>
+  </g>
+      </g>
+
+      <g transform="translate(125, -29)">
+        <svg width="350" height="350">
+       <g class="stagger" style="animation-delay: 600ms">
+        <path
+          data-testid="lang-donut"
+          size="37.84"
+          d="M 155.8709776999497 157.58283837806601 A 56.66666666666667 56.66666666666667 0 0 0 116.66666666666667 60"
+          stroke="#DA5B0B"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 700ms">
+        <path
+          data-testid="lang-donut"
+          size="26.83"
+          d="M 71.52279677523106 150.91782901681538 A 56.66666666666667 56.66666666666667 0 0 0 155.8709776999497 157.58283837806601"
+          stroke="#3178c6"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 800ms">
+        <path
+          data-testid="lang-donut"
+          size="10.98"
+          d="M 60.04725238725606 114.35300338788441 A 56.66666666666667 56.66666666666667 0 0 0 71.52279677523106 150.91782901681538"
+          stroke="#e34c26"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 900ms">
+        <path
+          data-testid="lang-donut"
+          size="8.62"
+          d="M 69.34338251187387 85.4958808582234 A 56.66666666666667 56.66666666666667 0 0 0 60.04725238725606 114.35300338788441"
+          stroke="#663399"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 1000ms">
+        <path
+          data-testid="lang-donut"
+          size="8.61"
+          d="M 92.15326961777515 65.57650639842609 A 56.66666666666667 56.66666666666667 0 0 0 69.34338251187387 85.4958808582234"
+          stroke="#3572A5"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      
+       <g class="stagger" style="animation-delay: 1100ms">
+        <path
+          data-testid="lang-donut"
+          size="7.11"
+          d="M 116.63106195226867 60.00001118555129 A 56.66666666666667 56.66666666666667 0 0 0 92.15326961777515 65.57650639842609"
+          stroke="#336790"
+          fill="none"
+          stroke-width="12">
+        </path>
+      </g>
+      </svg>
+      </g>
+    </g>
+  
+    </svg>
+  
+        </g>
+      </svg>
+    
