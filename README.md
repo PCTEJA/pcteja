@@ -14,7 +14,8 @@
 *I turn messy data into useful systems and coffee into suspiciously specific commits.*
 
 [![GitHub followers](https://img.shields.io/github/followers/PCTEJA?style=flat-square&label=FOLLOW%20THE%20BUILD&color=818cf8&labelColor=10182c&logo=github&logoColor=white)](https://github.com/PCTEJA?tab=followers)
-[![Buy me a coffee](https://img.shields.io/badge/FUEL%20THE%20NEXT%20COMMIT-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000&labelColor=10182c)](https://buymeacoffee.com/hanr)
+
+<a href="https://buymeacoffee.com/hanr"><img src="./assets/coffee.svg" height="54" alt="Buy Teja a coffee" /></a>
 
 </div>
 
