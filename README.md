@@ -39,14 +39,14 @@
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="195" alt="PCTEJA's GitHub statistics: stars, commits, pull requests, issues, and contributions" />
-<img src="./profile/languages.svg" height="195" alt="Donut chart of languages in PCTEJA's public repositories" />
+<img src="./profile/stats.svg" width="58%" alt="PCTEJA's GitHub statistics: stars, commits, pull requests, issues, and contributions" />
+<img src="./profile/languages.svg" width="40%" alt="Donut chart of languages in PCTEJA's public repositories" />
 
-<br><br>
+<br>
 
 <img src="./profile/streak.svg" width="100%" alt="Public contribution total, current streak, and longest streak within the displayed calendar window" />
 
-<br><br>
+<br>
 
 <img src="./profile/activity.svg" width="100%" alt="PCTEJA's contribution activity over the last 90 days" />
 
@@ -99,7 +99,7 @@ I’m **Teja P C**. I build across **full-stack software, production GenAI, and 
 <br>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,mongodb,postgres,gcp,docker,kubernetes,git&theme=dark&perline=9" alt="PyTorch, scikit-learn, FastAPI, MongoDB, PostgreSQL, Google Cloud, Docker, Kubernetes, Git" />
 
-**AI:** OpenAI & Gemini APIs · OCR · structured outputs · prompt engineering  
+**AI:** OpenAI & Gemini APIs · OCR · structured outputs · prompt engineering<br>
 **Data:** SQL · ETL/ELT · Talend · data validation · event-driven pipelines
 
 </div>
