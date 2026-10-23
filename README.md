@@ -86,7 +86,7 @@ I’m **Teja P C**. I build across **full-stack software, production GenAI, and 
 <a href="https://github.com/PCTEJA/tejapc_3d_portfolio"><img src="./assets/project-portfolio.svg" width="49%" alt="3D animated portfolio — explore the repository" /></a>
 <a href="https://github.com/PCTEJA/SOLAR-POWER-PREDICTOR"><img src="./assets/project-solar.svg" width="49%" alt="Solar power predictor — explore the repository" /></a>
 
-**Try it live:** [MCP Learning Platform](https://intro-to-mcp.vercel.app/) · [3D Portfolio](https://teja3d.netlify.app/)
+**Try it live:** [MCP Learning Platform](https://intro-to-mcp.vercel.app/) · [3D Portfolio](https://tejapc.com/)
 
 *My portfolio has an extra dimension. My TODO list did not need one.*
 
