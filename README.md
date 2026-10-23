@@ -8,8 +8,8 @@
 
 <a href="https://www.linkedin.com/in/tejapc/"><img src="./assets/linkedin.svg" height="44" alt="Connect on LinkedIn" /></a>
 <a href="https://scholar.google.com/citations?user=mZGqviAAAAAJ&hl=en"><img src="./assets/scholar.svg" height="44" alt="Research on Google Scholar" /></a>
-<a href="https://teja3d.netlify.app/"><img src="./assets/portfolio.svg" height="44" alt="Explore my 3D portfolio" /></a>
-<a href="https://tejacv.netlify.app/"><img src="./assets/resume.svg" height="44" alt="Read my resume" /></a>
+<a href="https://tejapc.com/"><img src="./assets/portfolio.svg" height="44" alt="Explore my 3D portfolio" /></a>
+<a href="https://www.tejapc.com/gallery/tejacv.pdf"><img src="./assets/resume.svg" height="44" alt="Read my resume" /></a>
 
 *I turn messy data into useful systems and coffee into suspiciously specific commits.*
 
