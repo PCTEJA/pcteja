@@ -70,7 +70,7 @@
 I’m **Teja P C**. I build across **full-stack software, production GenAI, and data engineering**. My favorite projects make something complicated feel simple—whether that’s document extraction, developer education, or a checkout that makes fewer unnecessary API calls.
 
 - 🛍️ **Now:** software engineering at **Foot Locker** and an **MS in Computer Science at UNT** (expected 2027).
-- 🧠 **Previously:** **3+ years at TCS**, building data pipelines and LLM-powered document workflows.
+- 🧠 **Previously:** **5+ years of experience**, building data pipelines and LLM-powered document workflows.
 - ☀️ **Research side quest:** machine learning for solar-power forecasting.
 - 🧑‍🏫 **Teaching side quest:** helped **180+ students** learn Python, ML, and AI at UNT.
 
